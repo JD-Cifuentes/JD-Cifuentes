@@ -1,5 +1,5 @@
 
-<img src="./pics/banner1.gif" alt="Juan David Cifuentes Florezwelcome banner"> 
+<img src="./pics/banner1.gif" alt="Juan David Cifuentes Florez welcome banner"> 
 
 <h3 align="center" style="font-family: 'Roboto Light',sans-serif; font-size:14pt"> 
     I'm a QA trainee from Colombia 
@@ -8,12 +8,11 @@
 </h3>
 
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>🦾 Tech lover</li>
+    <li>🖥️ Currently studing Systems engineering</li>
+    <li>📚 Constantly acquiring new knowlege</li>
+    <li>🔓 Love to solve logic problems</li>
+    <li>🛣️ Focuse on being a reliable QA</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
