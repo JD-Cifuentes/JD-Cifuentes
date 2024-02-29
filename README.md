@@ -6,22 +6,27 @@
     <br>
     <img src="./pics/col.png" alt="Bandera Colombia">
 </h3>
+<h3>
+    <ul>
+        <li>🦾 Tech lover</li>
+        <li>🖥️ Currently studing systems engineering</li>
+        <li>📚 Constantly acquiring new knowledge</li>
+        <li>🔓 Love to solve logic problems</li>
+        <li>🛣️ Focused on being a reliable QA</li>
+    </ul>
+</h3>
 
-<ul>
-    <li>🦾 Tech lover</li>
-    <li>🖥️ Currently studing systems engineering</li>
-    <li>📚 Constantly acquiring new knowledge</li>
-    <li>🔓 Love to solve logic problems</li>
-    <li>🛣️ Focused on being a reliable QA</li>
-</ul>
-<hr style="border-top: 1px dotted red">
+<hr>
+<br>
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
     <a href="https://linkedin.com/in/juan david cifuentes florez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan david cifuentes florez" height="30" width="40" /></a>
 </p>
+
 <hr>
+<br>
+
 <h3 align="left">Technologies</h3>
     <div align="left">
         <h4 align="left">Programming languages:</h4>
