@@ -41,9 +41,10 @@
     </div>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandcifuentes&show_icons=true&locale=en" alt="juandcifuentes" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandcifuentes&show_icons=true&theme=dracula&locale=en" alt="juandcifuentes" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandcifuentes&" alt="juandcifuentes" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandcifuentes&theme=dark" alt="juandcifuentes" />
 </p>
+
