@@ -1,7 +1,7 @@
 
 <img src="./pics/banner1.gif" alt="Juan David Cifuentes Florez welcome banner"> 
 
-<h3 align="center" style="font-family: 'Roboto Light',sans-serif; font-size:14pt"> 
+<h3 align="center"> 
     I'm a QA trainee from Colombia 
     <br>
     <img src="./pics/col.png" alt="Bandera Colombia">
