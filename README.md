@@ -2,7 +2,7 @@
 <img src="./pics/banner1.gif" alt="Juan David Cifuentes Florez welcome banner"> 
 
 <h3 align="center"> 
-    I'm a QA trainee from Colombia 
+    I'm a backend trainee from Colombia 
     <br>
     <img src="./pics/col.png" alt="Bandera Colombia">
 </h3>
@@ -12,7 +12,7 @@
         <li>🖥️ Currently studing systems engineering</li>
         <li>📚 Constantly acquiring new knowledge</li>
         <li>🔓 Love to solve logic problems</li>
-        <li>🛣️ Focused on being a reliable QA</li>
+        <li>🛣️ Focused on being a reliable backend developer</li>
     </ul>
 </h3>
 
