@@ -2,7 +2,7 @@
 <img src="./pics/banner1.gif" alt="Juan David Cifuentes Florez welcome banner"> 
 
 <h3 align="center"> 
-    I'm a backend trainee from Colombia 
+    I'm a Systems Engineer in training from Colombia 
     <br>
     <img src="./pics/col.png" alt="Bandera Colombia">
 </h3>
