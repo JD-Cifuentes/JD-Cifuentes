@@ -36,8 +36,11 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+        </a>
+        <a href="https://isocpp.org//" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpplusplus" width="40" height="40"/>
         </a>
         <br>
         <h4 align="left">Other languages:</h4>
@@ -57,6 +60,9 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
         </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+        </a>
         <br>
         <h4 align="left">Frameworks:</h4>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -66,13 +72,5 @@
 <hr>
 <br><br>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandcifuentes&show_icons=true&theme=dracula&locale=en" alt="juandcifuentes" />
-</p>
 
-<br><br>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandcifuentes&theme=dark" alt="juandcifuentes" />
-</p>
 
